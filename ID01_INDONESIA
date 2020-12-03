@@ -1,0 +1,122 @@
+#EXTM3U KODI Support
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/Netmediatama.png/400px-Netmediatama.png" group-title="INDONESIA;HIBURAN", NET TV
+plugin://plugin.video.youtube/play/?video_id=MSQhwpYQbtQ
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="INDONESIA;BERITA",Kompas TV
+plugin://plugin.video.youtube/play/?video_id=gIB2egm7tL8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/New_MetroTV_Logo_2010.png" group-title="INDONESIA;BERITA",Metro TV HD
+https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS-JnbHYTg-GxTI1MJIrvCF0)/dm/3/x75p70w/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1600px-INews.png" group-title="INDONESIA;BERITA",iNews TV
+plugin://plugin.video.youtube/play/?video_id=w5O2huT0QV4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="BERITA",TVRI Nasional HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.2.4" group-title="INDONESIA;BERITA",CNN Indonesia HD	
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1786985431_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="INDONESIA;BERITA",CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w806702896_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA;BERITA",Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="INDONESIA;BERITA",Berita Satu 
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SM2tI8D.png" group-title="INDONESIA;BERITA",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8	
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="INDONESIA;BERITA",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/09/RCTI_MNC-Group.png/1600px-RCTI_MNC-Group.png" group-title="INDONESIA;HIBURAN",RCTI
+http://chostv.mobie.in/files/iptv/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3UXzPn.png" group-title="INDONESIA;HIBURAN",MNC TV
+http://chostv.mobie.in/files/iptv/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/MNCNews_tegak.png" group-title="INDONESIA;BERITA",MNC News
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lNNeHRC.png" group-title="INDONESIA;HIBURAN",GTV
+http://chostv.mobie.in/files/iptv/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7rC0DI.png" group-title="INDONESIA;HIBURAN",FirstMedia Info
+http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="INDONESIA;HIBURAN",TransTV
+https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w1323714779_b300100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.trans7.co.id/assets/front/images/logo/logo-trans7@2x.png" group-title="INDONESIA;HIBURAN",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1417211006_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5f/Musica_Studios.jpg" group-title="INDONESIA;MUSIK",Musica Studios
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4e/Pro-M.jpg" group-title="INDONESIA;MUSIK",Pro-M
+plugin://plugin.video.youtube/play/?video_id=brOuDadXNso
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s290391g.png" group-title="INDONESIA;MUSIK",NagaswaraFM RadioTemen
+plugin://plugin.video.youtube/play/?video_id=PNck2VpxJRI
+#EXTINF:-1 tvg-logo="https://pelangirecord.com/wp-content/uploads/2017/10/Pelangi-RECORDS-black.png" group-title="INDONESIA;MUSIK",Pelangi Records
+plugin://plugin.video.youtube/play/?video_id=_wsng6KKocA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/bb/Logo_GP_Records.png" group-title="INDONESIA;MUSIK",GP Records
+plugin://plugin.video.youtube/play/?video_id=F4ILrPmrbDg
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA;MUSIK",Maheswara Musik
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA;MUSIK",Trinity Optima Production
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="INDONESIA;MUSIK",KaraokeTV SD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c8cNGHN.png" group-title="INDONESIA;TV DAERAH",Simpang5 TV
+http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ytwbBy.png" group-title="INDONESIA;TV DAERAH",Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEluoTm.png" group-title="INDONESIA;TV DAERAH",BETV Bengkulu
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jambi_TV.png" group-title="INDONESIA;TV DAERAH",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Jektv_Jambi.png" group-title="INDONESIA;TV DAERAH",Jek TV Jambi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/400px-JTV_%282012%29.svg.png" group-title="INDONESIA;TV DAERAH",JTV HD	
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1274599252.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/400px-JTV_%282012%29.svg.png" group-title="INDONESIA;TV DAERAH",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="INDONESIA;TV DAERAH",ADI TV YOGYA
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VZ58x.png" group-title="INDONESIA;TV DAERAH",Tegar TV
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w1868317176.m3u8
+#EXTINF:-1 tvg-logo="http://mgstv.co.id/images/logo.png" group-title="INDONESIA;TV DAERAH",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/chunklist_w280570598.m3u8
+#EXTINF:-1 tvg-logo="http://bandungtv.tv/wp-content/uploads/2017/08/bandungtv.png" group-title="INDONESIA;TV DAERAH",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-logo="https://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new1-300x172.png" group-title="INDONESIA;TV DAERAH",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://bantentv.com/wp-content/uploads/2017/12/HEADER_bantentv.png" group-title="INDONESIA;TV DAERAH",Banten TV	
+http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/96/BMSTV_Banyumas-Purwokerto.png" group-title="INDONESIA;TV DAERAH",BMSTV Banyumas
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/400px-CTV_Banten.png" group-title="INDONESIA;TV DAERAH",CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Prima_TV_logo.png" group-title="INDONESIA;TV DAERAH",PrimaTV Banjarmasin	
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="INDONESIA;TV DAERAH",Radar TV Tasikmalaya
+
+#EXTINF:-1 tvg-logo="http://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="INDONESIA;TV DAERAH",TA TV	
+http://flash1.broadcastindo.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="INDONESIA;TV DAERAH",TVKU	
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SDOkIrm.png" group-title="INDONESIA;TV DAERAH",Radar Lampung
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d9/Riau_TV.png" group-title="INDONESIA;TV DAERAH",Riau TV
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="INDONESIA;TV DAERAH",bTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/83/89/4b/83894bc706d43ead96e50197ac171154.jpg" group-title="INDONESIA;TV DAERAH",Lombok TV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/43/FAJARTV_2014.png/400px-FAJARTV_2014.png" group-title="INDONESIA;TV DAERAH",Fajar TV
+http://122.248.43.138:1935/ch27/myStream/chunklist_w998392151.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eH19f5B.png" group-title="INDONESIA;TV DAERAH;RELIGI",Al Bahjah	
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUvEvEK.png"  group-title="INDONESIA;RELIGI",Hidup TV
+http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1wcR1FB.png" group-title="INDONESIA;RELIGI",InsanTV
+
+#EXTINF:-1 tvg-logo="http://badarmedia.tv/wp-content/uploads/2018/03/cropped-LOGO-BADARTV-1-2.png" group-title="INDONESIA;RELIGI",Badar TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="INDONESIA;RELIGI",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
+#EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/AHSAN-TV-Logo-1-1.png" group-title="INDONESIA;RELIGI",AHSAN TV	
+
